@@ -1,5 +1,5 @@
 _repo: Joutel-s-Journal-of-La-Salle-s-Last-Voyage-1684-7_65116
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Stiles, Henry Reed
@@ -16,12 +16,17 @@ contributor:
     deathdate: 1926
     gutenberg_agent_id: '39525'
     url: http://www.gutenberg.org/2009/agents/39525
+covers:
+- cover_type: archival
+  image_path: 65116-h/images/cover.jpg
 creator:
   author:
     agent_name: Joutel, Henri
     gutenberg_agent_id: '53190'
     url: http://www.gutenberg.org/2009/agents/53190
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65116#Joutel-s-Journal-of-La-Salle-s-Last-Voyage-1684-7
 gutenberg_issued: '2021-04-19'
 gutenberg_type: Text
 identifiers:
